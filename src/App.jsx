@@ -135,19 +135,19 @@ function App() {
 
       
       <p className="read-the-docs">
-      Scopri la nostra storia e la passione per l'orologeria di lusso.
+             Sei pronto per il prossimo Halloween?
+      <br /> Immergiti in un fantastico mondo spettrale.
       </p>
       <div>
            
-            <p>Email: info@luxurywatches.com</p>
-            <p>Telefono: +39 06 12345678</p>
+            <p>Email: info@HalloweenGhost.com</p>
+            <p>Telefono: +39 06 136446345678</p>
         </div>
     <div >
       <p className="final-thought">
-      Grazie per aver visitato la nostra pagina dedicat
-      alla orologeria! <br />
+       Grazie per aver visitato la nostra pagina spettrale! <br />
        Speriamo che tu abbia trovato in
-      teressante il nostri contenuti. <br />
+       teressante il nostri contenuti. <br />
        Seguici per ulteriori aggiornamenti e contenuti esclusivi!
       </p>
       <div id="my-bar"></div>
