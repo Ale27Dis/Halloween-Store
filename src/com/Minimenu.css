@@ -1,0 +1,24 @@
+.brand-buttons-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 20px 0;
+  }
+  
+  .brand-button {
+    font-family: cursive;
+    background-color: #333;
+    color: #FAA307;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 17px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .brand-button:hover {
+    background-color: #555;
+  }
+  
+  
